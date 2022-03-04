@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'cicd',
 ]
 
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
